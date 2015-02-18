@@ -1,4 +1,6 @@
-//Handle Multiply
+                var cArr = ['1', '*', '4', '-', '12', '/', '2'] ;
+                //1*4-12/2
+                //Handle Multiply
                 for (i = 0; i <= self.cArr.length; i++) {
                     cItem = self.cArr[ i ];
                     if (cItem == '*') {
